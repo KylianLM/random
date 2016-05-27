@@ -1,2 +1,2 @@
 # random
-Random function in many langages
+Random function in many languages
